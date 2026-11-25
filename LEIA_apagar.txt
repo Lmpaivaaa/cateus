@@ -1,9 +1,0 @@
-APAGAR do GitHub (nao sao mais usados):
-chefe_mino.png
-chefe_medusa.png
-chefe_tritao.png
-chefe_cerbero.png
-chefe_selene.png
-chefe_apolo.png
-
-NAO apagar os chefe_anim_*.webp
